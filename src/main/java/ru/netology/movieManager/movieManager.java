@@ -1,3 +1,5 @@
+package ru.netology.movieManager;
+
 public class movieManager {
     private String[] movies = new String[0];
     private int limit;
